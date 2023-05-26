@@ -1,2 +1,2 @@
 # systematicsoftworks.io
-Working on every know frontend Developer language
+Working on every known frontend Development language
